@@ -12,5 +12,13 @@ jobs:
     - uses: actions/first-interaction@v1
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
-        issue-message: "Message that will be displayed on users' first issue"
+        issue-message: "
+Thank you for creating this issue! 🎉 We'll look into it as soon as possible. In the meantime, please make sure to provide all the necessary details and context. If you have any questions reach out to LinkedIn. Your contributions are highly appreciated! 😊
+
+Note: I Maintain the repo issue twice a day, or ideally 1 day, If your issue goes stale for more than one day you can tag and comment on this same issue.
+
+You can also check our CONTRIBUTING.md for guidelines on contributing to this project.
+We are here to help you on this journey of opensource, any help feel free to tag me or book an appointment.
+
+' first issue"
         pr-message: "Message that will be displayed on users' first pull request"
