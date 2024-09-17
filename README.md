@@ -4,7 +4,7 @@ This project focuses on predicting the stock prices of UltraTech Cement Ltd usin
 
 ## Table of Contents
 - [Project Overview](#project-overview)
-- [Models Used](#models-used)
+- [Models Used](#models-used) 
 - [Dependencies](#dependencies)
 - [Data Preprocessing](#data-preprocessing)
 - [Model Training and Evaluation](#model-training-and-evaluation)
